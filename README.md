@@ -1,11 +1,15 @@
 # Public-Samples-Android
-A demonstration of some of the features of the Kudan Android SDK
 
-Instructions:
-1. Download the Kudan AR Android SDK here: https://www.kudan.eu/download-kudan-ar-sdk/ 
-2. Import the .aar package to your project by going to (File -> New -> New Module...) and selecting Import .JAR/.AAR package.
-3. Go to (File -> Project Structure...), select your app module, click the dependencies tab, click the plus in the lower left and select Module Dependancy to add KudanAR as a dependancy to your project.
+[English README is here](./README_en.md)
 
-For more instructions and tutorials visit https://wiki.kudan.eu/Getting_Started_Android
+Kudan Android SDK のいくつかの機能をデモします。
 
-Check out our website at https://www.kudan.eu/ and YouTube channel https://www.youtube.com/user/KudanLimited
+手順:
+
+1. Kudan AR Android SDK を [こちら](https://www.xlsoft.com/jp/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-Android) からダウンロードします。
+1. `.aar` パッケージを (File -> New -> New Module...) から `.JAR/.AAR package` を選択してインポートします。
+1. (File -> Project Structure...) から app module を選択し、dependencies タブをクリック、左下の＋ボタンをクリックして、Module Dependancy を選択し KudanAR をプロジェクトに追加します。
+
+詳細な手順およびチュートリアルは以下を参照してください。[Kudan Developer Hub](https://www.xlsoft.com/doc/kudan/ja/home_jp/?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-Android)
+
+併せて[弊社 Web ページ](https://www.xlsoft.com/jp/products/kudan/index.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-Android) もご覧ください。
